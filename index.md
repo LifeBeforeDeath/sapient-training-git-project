@@ -9,3 +9,4 @@ https://git-scm.com/
 - git status(to check status)
 - git add filename(git command to track the file)
 - git add . (git command to track all the files in current folder)
+- git commit -m "comment"(taking screenshot of file)
