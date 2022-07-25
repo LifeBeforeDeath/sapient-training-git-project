@@ -15,3 +15,8 @@ https://git-scm.com/
 - git remote -v (comment to check the remote)
 - git push -u origin master(for first time pushing code)
 - git push(noe whenever you want to push code)
+- git pull(to pull code from repositary)
+- git clone URL(to create a copy of code in your desktop)
+- git branch(to show all branch)
+- git branch branch-name(to create a branch)
+- git checkout branch_name(to shiftover to a new branch)
